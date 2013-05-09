@@ -967,7 +967,8 @@ function request_filesystem_credentials($form_post, $type = '', $error = false, 
 
 ?>
 <script type="text/javascript">
-<!--
+//error
+        <!--
 jQuery(function($){
 	jQuery("#ssh").click(function () {
 		jQuery("#ssh_keys").show();
