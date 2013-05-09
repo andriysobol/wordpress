@@ -9,7 +9,7 @@
 /**
  * Tells WordPress to load the WordPress theme and output it.
  * hallo test
- * @var bool
+ * @var bool bla bla
  */
 define('WP_USE_THEMES', true);
 
