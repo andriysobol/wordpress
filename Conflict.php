@@ -10,7 +10,7 @@
  *
  * @param string $input_id Which input to auto-focus
  */
-function login_footer($input_id = '') {
+function login_footerTest($input_id = '') {
 	global $interim_login;
 
 	// Don't allow interim logins to navigate away from the page.
